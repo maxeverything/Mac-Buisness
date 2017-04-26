@@ -1,4 +1,4 @@
-git push -u origin master<?php
+<?php
 
 session_start();
 	
