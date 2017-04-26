@@ -7,8 +7,7 @@ include_once 'fCart.php';
 include_once '../Function/product.php';
 $result_cart=cart::getCartItem();
 ?>
-<!--
-Test Changes-->
+
 
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
   
